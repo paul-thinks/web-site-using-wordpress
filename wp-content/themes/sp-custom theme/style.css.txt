@@ -1,0 +1,5 @@
+/*
+Theme Name: personal portfolio;
+Description: blogs, portfolio, marketing;
+Athour: sajal paul;
+*/

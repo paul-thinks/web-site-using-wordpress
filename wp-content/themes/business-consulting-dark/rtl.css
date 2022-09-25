@@ -1,0 +1,15 @@
+.rtl .primary_header_2 {
+    justify-content: center;
+    text-align: center;
+}
+
+.wp-block-search .wp-block-search__input,
+.widget.widget_search .search-form input.search-field {
+    padding: 9px 15px 10px 15px;
+}
+
+@media only screen and (min-width: 1025px){
+    .rtl .primary_header_center .bizberg_header_wrapper {
+        justify-content: center;
+    }
+}
